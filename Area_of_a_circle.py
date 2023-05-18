@@ -1,4 +1,2 @@
 r=int(input())
-a=(3.14*r*r)
-
-print(round(a,2))
+print(round(r*r*3.14,2))
